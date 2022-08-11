@@ -8,7 +8,7 @@ This Study focuses on the unsupervised domain adaptive semantic segmentation tas
 
 ### Related Works
 The code is developed based on the following project and we would like to thank their contribution:
-- (https://github.com/layumi/Seg-Uncertainty)
+- https://github.com/layumi/Seg-Uncertainty
 
 ### Prerequisites
 - Python 3.6
